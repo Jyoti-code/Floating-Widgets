@@ -1,0 +1,12 @@
+.btn-rounded {
+    transform: rotate(-90deg);
+    white-space: nowrap;
+    position: fixed;
+    right: 10px;
+    top: 45%;
+    margin-top: -60px;
+    
+}
+.modal-body input {
+    margin-bottom: 10px;
+  }

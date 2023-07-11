@@ -1,0 +1,28 @@
+.container {
+position: fixed;
+transform: translateX(100%);
+top: 15%;
+right: 100px;
+}
+/* .icon-button {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 60px;
+height: 60px;
+background-color: #fff;
+box-shadow: 0 5px 4px rgba(0, 0, 0, 0.5);
+}
+
+.instagram{
+    background-color:#FC91C8;
+}  
+.facebook{
+    background-color:#9FBBFF;
+}  
+.twitter{
+    background-color:#84C2FF;
+}  
+.pinterest{
+    background-color:#FF8E55;
+}   */
